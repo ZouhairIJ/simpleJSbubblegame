@@ -1,2 +1,2 @@
 # simpleJSbubblegame
-Das Spiel "Bubbles" ist eine einfache Webapp Game, mit einfachen Javascript, html und css Implementierung .
+Das Spiel "Bubbles" ist eine einfache Webapp Game, mit eine einfache und übersichtliche Javascript, html und css Implementierung .
